@@ -1,23 +1,21 @@
 DEAL WITH IT
 ============
 
-This is a slimed down version of an app i wrote at twitter to troll people around the office with.
+This is a slimed down version of an app i wrote at twitter to troll people around the office.
 
-Basically it uses facial detection to make people DEEEAALLLL WITH IT.
-
-it's good times.
+Basically it uses face detection to make people **DEEEAALLLL WITH IT**.
 
 
 HOW DO I USE THIS HOTNESS
-=========================
+-------------------------
 
-It's really easy.
+It's super easy.
 
 **First!** And most important - get the code.
 
-**Then!** You need to run it.
+**Then!** Run it.
 
-*NOTE:* it needs to be served by something -- there's this super lame reading image data from local files thing which browsers are SUPER not down with.
+**note** it needs to be on a server otherwise when you try to run it, it will throw an error. This has something to do with crazy browser security stuff.
 
 **Optionally** You can pass a message to display instead of deal with it. Like for example
 
