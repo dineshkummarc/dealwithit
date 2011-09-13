@@ -21,7 +21,7 @@
       , regex = new RegExp(regexS)
       , results = regex.exec(location.href)
 
-    return results ? escape(results[1]) : ''
+    return results ? unescape(results[1]) : ''
   }
 
   function attachEvents() {
