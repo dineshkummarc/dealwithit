@@ -5,13 +5,15 @@ This is a slimed down version of an app i wrote at twitter to troll people aroun
 
 Basically it uses facial detection to make people **DEEEAALLLL WITH IT**.
 
+Check it out in action [here](http://fat.github.com/dealwithit/)!
+
 
 HOW TO USE THIS JUNK
 --------------------
 
 It's super easy.
 
-**First!** And most important - get the code.
+**First!** And most important - get the code. Use git or something.
 
 **Then!** Set the `src` variable in `js/app.js` to reference your url.
 
