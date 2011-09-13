@@ -29,7 +29,7 @@ For example, this image will not work because the javascript has no idea where t
 
 ![Bad](http://fat.github.com/dealwithit/img/bad.jpg)
 
-but, something a bit more normal... like the one below totally works.
+but, something a bit more normal... like the one below... totally works!
 
 ![Good](http://fat.github.com/dealwithit/img/good.jpg)
 
