@@ -46,7 +46,7 @@
   }
 
   function dealWithIt(coords) {
-    $('<img id="glasses" src="/img/glasses.png" />')
+    $('<img id="glasses" src="img/glasses.png" />')
       .appendTo($container)
       .show()
       .css({
