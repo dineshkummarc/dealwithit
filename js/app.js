@@ -2,6 +2,7 @@
   $(init)
 
   var host = 'localhost:3000'
+    , src = 'img/good.jpg'
     , $container
     , $message
     , $img
@@ -11,7 +12,7 @@
       $container = $("#container").hide()
       $message = $('#message').hide().text(getUrlParam('message') || 'deal with it')
       attachEvents()
-      $img.attr('src', 'img/good.jpg')
+      $img.attr('src', src)
   }
 
   function getUrlParam(name) {

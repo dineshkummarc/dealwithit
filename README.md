@@ -13,9 +13,11 @@ It's super easy.
 
 **First!** And most important - get the code.
 
+**Then!** Set the `src` variable in `js/app.js` to reference your url.
+
 **Then!** Run it.
 
-**Note!** This stuff needs to be on a server, otherwise when you try to run it, it will throw an error. This has something to do with crazy browser security stuff.
+**Note!** This stuff needs to be on a server (including the image url) otherwise when you try to run it, it will throw an error. This has something to do with crazy browser security stuff around reading image data.
 
 **Optionally!** You can pass a message through the url to display instead of the default "deal with it". Like for example
 
