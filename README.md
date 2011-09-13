@@ -3,7 +3,7 @@ DEAL WITH IT
 
 This is a slimed down version of an app i wrote at twitter to troll people around the office.
 
-Basically it uses face detection to make people **DEEEAALLLL WITH IT**.
+Basically it uses facial detection to make people **DEEEAALLLL WITH IT**.
 
 
 HOW TO USE THIS JUNK
@@ -19,7 +19,7 @@ It's super easy.
 
 **Note!** This stuff needs to be on a server (including the image url) otherwise when you try to run it, it will throw an error. This has something to do with crazy browser security stuff around reading image data.
 
-**Optionally!** You can pass a message through the url to display instead of the default "deal with it". Like for example
+**Optionally!** You can pass a message through the url to display instead of the default "deal with it". [Like for example]("http://fat.github.com/dealwithit/?message=fat actually aint so fat"):
 
     http://fat.github.com/dealwithit/?message=fat actually aint so fat
 
