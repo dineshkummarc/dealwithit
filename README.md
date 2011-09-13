@@ -6,8 +6,8 @@ This is a slimed down version of an app i wrote at twitter to troll people aroun
 Basically it uses face detection to make people **DEEEAALLLL WITH IT**.
 
 
-HOW DO I USE THIS HOTNESS
--------------------------
+HOW TO USE THIS JUNK
+--------------------
 
 It's super easy.
 
