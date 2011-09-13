@@ -15,11 +15,11 @@ It's super easy.
 
 **Then!** Run it.
 
-**note** it needs to be on a server otherwise when you try to run it, it will throw an error. This has something to do with crazy browser security stuff.
+**Note!** This stuff needs to be on a server, otherwise when you try to run it, it will throw an error. This has something to do with crazy browser security stuff.
 
-**Optionally** You can pass a message to display instead of deal with it. Like for example
+**Optionally** You can pass a message through the url to display instead of the default "deal with it". Like for example
 
-    localhost:3000/dealwithit?message=come at me bro
+    http://fat.github.com/dealwithit/?message=fat actually aint so fat
 
 **ALSO NOTE** Not all images work!
 
