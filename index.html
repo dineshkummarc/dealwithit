@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>DEAL WITH IT!</title>
+  <style type="text/css">
+    @font-face { font-family: pixel-font; src: url('fonts/pixel-font.ttf'); }
+    body { background: url(img/space.png); }
+    .main { margin: 20px auto; display: block; }
+    p { font-family: pixel-font, courier; font-size: 40px; text-align: center; color:yellow; }
+  </style>
+  <script src="http://code.jquery.com/jquery-1.6.2.min.js"></script>
+  <script src="js/facedetection/ccv.js"></script>
+  <script src="js/facedetection/face.js"></script>
+  <script src="js/jquery.facedetection.js"></script>
+  <script src="js/app.js"></script>
+</head>
+<body>
+  <div id="container">
+    <img class="main" />
+    <p id="message"></p>
+  </div>
+  <audio autoplay="autoplay" preload="preload" loop="loop">
+    <source src="audio/music.mp3" type="audio/mp3" />
+  </audio>
+</body>
+</html>
