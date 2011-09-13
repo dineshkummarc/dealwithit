@@ -19,7 +19,7 @@ It's super easy.
 
 **Note!** This stuff needs to be on a server (including the image url) otherwise when you try to run it, it will throw an error. This has something to do with crazy browser security stuff around reading image data.
 
-**Optionally!** You can pass a message through the url to display instead of the default "deal with it". [Like for example]("http://fat.github.com/dealwithit/?message=fat actually aint so fat"):
+**Optionally!** You can pass a message through the url to display instead of the default "deal with it". [Like for example](http://fat.github.com/dealwithit/?message=fat actually aint so fat):
 
     http://fat.github.com/dealwithit/?message=fat actually aint so fat
 
