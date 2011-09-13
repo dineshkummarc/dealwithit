@@ -11,7 +11,7 @@
       $container = $("#container").hide()
       $message = $('#message').hide().text(getUrlParam('message') || 'deal with it')
       attachEvents()
-      $img.attr('src', 'img/face.jpg')
+      $img.attr('src', 'img/good.jpg')
   }
 
   function getUrlParam(name) {
