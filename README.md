@@ -32,6 +32,6 @@ For example, this image will not work
 but this will!
 
 
-![Good](http://fat.github.com/dealwithit/img/bad.jpg)
+![Good](http://fat.github.com/dealwithit/img/good.jpg)
 
 See it in action [here](http://fat.github.com/dealwithit/)
